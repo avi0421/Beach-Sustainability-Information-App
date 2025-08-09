@@ -1,4 +1,4 @@
-# Beach Sustainability Information App 🌊
+# Smart India Hackathon – Beach Sustainability Information App 🌊
 
 ## Overview
 This project was developed as part of the **Smart India Hackathon (SIH) 2024** under the theme **Travel & Tourism** for the Ministry of Earth Science.
