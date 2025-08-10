@@ -43,13 +43,7 @@ It provides a **suitability score** for each beach with **color-coded safety ind
 
 ---
 
-## Team – Code Wars (newGen)
-- Abhijeet Rajesh Singh (Team Leader)  
-- Avinash Chandraprakash Prajapati  
-- Satyam Sanjay Yadav  
-- Suraj Subhash Bhavake  
-- Apeksha Umakant Ojha  
-- Kajal Kumari  
+## Team – Code Wars (newGen)  
 
 ---
 
